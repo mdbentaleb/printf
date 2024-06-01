@@ -1,9 +1,4 @@
 # PRINTF
-<p align="left">
-
-<img src="https://user-images.githubusercontent.com/111146026/196436282-027f9cee-998b-4780-beb3-d4eb943a4718.png">
-
-</p>
 
 This is a repository that contains all functions required for custom printf function created by us (Maranatha Adesanya and Abraham Kanime). Our printf function attempts to replicate some of the features of the printf function contained in stdio.h. It is designed to handle these conversion specifiers: c, s, i, d, %, u, x, X, rot13, and o.
 
